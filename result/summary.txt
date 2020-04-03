@@ -1,0 +1,34 @@
+flowNum = 1
+nodeNum = 10
+pathLength = 6
+midPathLength = pathLength * 3
+pathMaxLength = pathLength * 4
+seqNum = 2
+verNum = 1
+
+
+flowNum = 1
+nodeNum = 12
+pathLength = 8
+midPathLength = pathLength * 3
+pathMaxLength = pathLength * 4
+seqNum = 3
+verNum = 1
+
+
+flowNum = 2
+nodeNum = 10
+pathLength = 6
+midPathLength = pathLength * 3
+pathMaxLength = pathLength * 4
+seqNum = 2
+verNum = 1
+
+
+flowNum = 3
+nodeNum = 12
+pathLength = 8
+midPathLength = pathLength * 3
+pathMaxLength = pathLength * 4
+seqNum = 3
+verNum = 1
